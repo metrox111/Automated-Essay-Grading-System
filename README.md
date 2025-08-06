@@ -71,6 +71,15 @@ The Gradio interface lets you:
 
 ![aes](https://github.com/user-attachments/assets/765cde80-acc1-4001-996a-1f6f3c5be156)
 
+![bc58de28-b187-43bc-9243-b90d870e220d](https://github.com/user-attachments/assets/dbcb50d8-be7b-483b-9ed0-7edb96aa94e4)
+
+![5abaa173-7740-4b4a-acad-453e28706ad5](https://github.com/user-attachments/assets/004c7af0-6505-41d3-b167-124885426045)
+
+
+
+![69f9ea12-c3b8-46c3-8ba9-192112254e52](https://github.com/user-attachments/assets/56a6533f-d0be-44bf-a143-c5bae15931a6)
+
+
 
 
 <img width="846" height="470" alt="roberta rmse vs mse" src="https://github.com/user-attachments/assets/ef0e6363-cb8e-4937-85dc-f7f69294d61d" />

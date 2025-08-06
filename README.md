@@ -67,21 +67,12 @@ The Gradio interface lets you:
 ├── README.md
 ```
 
----
 
-## 📄 License
 
-MIT License — use it, modify it, build your own grading AI.
+![aes](https://github.com/user-attachments/assets/765cde80-acc1-4001-996a-1f6f3c5be156)
 
----
 
-## 📬 Contact
 
-Built by [@metrox111](https://github.com/metrox111).
-DM or open an issue for feedback, collabs, or feature requests.
-
-```
-
----
+<img width="846" height="470" alt="roberta rmse vs mse" src="https://github.com/user-attachments/assets/ef0e6363-cb8e-4937-85dc-f7f69294d61d" />
 
 
